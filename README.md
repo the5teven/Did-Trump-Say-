@@ -5,6 +5,5 @@ Check out Making_the_Model.ipynb to see how I trained the model.
 
 Did_Trump_Say_Tk_GUI.py will run a fun GUI predict:
 Screanshots:
-![Screanshots 1](Images/Screen Shot 2020-05-22 at 7.25.57 PM.png)
-![Screanshots 2](Images/Screen Shot 2020-05-22 at 7.27.20 PM.png)
-![Screanshots 3](Images/Screen Shot 2020-05-22 at 7.27.40 PM.png)
+![Screanshots 1]
+(https://github.com/the5teven/Did-Trump-Say-/blob/master/Images/Screen%20Shot%202020-05-22%20at%207.25.57%20PM.png?raw=true)
