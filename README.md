@@ -5,4 +5,5 @@ Check out Making_the_Model.ipynb to see how I trained the model.
 
 Did_Trump_Say_Tk_GUI.py will run a fun GUI predict:
 Screanshots:
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+<img scr= "/Images/Screen%20Shot%202020-05-22%20at%207.25.57%20PM.png" width = 100>
+<img scr= "/Images/Screen%20Shot%202020-05-22%20at%207.27.20%20PM.png" width = 100>
