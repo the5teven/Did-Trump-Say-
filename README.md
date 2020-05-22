@@ -6,6 +6,6 @@ Check out Making_the_Model.ipynb to see how I trained the model.
 Did_Trump_Say_Tk_GUI.py will run a fun GUI predict:
 Screanshots:
 
-<img scr="blob/master/Images/ScreenShot1.png" width = 100>
-<img scr="./Images/ScreenShot2.png" width = 100>
-<img scr="Images/ScreenShot3.png" width = 100>
+<img scr="/Images/ScreenShot1.png" width = "100">
+<img scr="/Images/ScreenShot2.png" width = "100">
+<img scr="Images/ScreenShot3.png" width = "100">
