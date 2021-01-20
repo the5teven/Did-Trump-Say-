@@ -1,5 +1,5 @@
 # Did Trump Say? (Twitter Machine learning)
-A python program the trains a machine learning text classification model that predicts if a quote is attributed to the 45th president of the united states.
+A python program that trains a machine learning text classification model and another python program that uses that trained model to predict if a quote is attributed to the 45th president of the united states.
 
 Check out Making_the_Model.ipynb to see how I trained the model (spoiler I used Trump's Tweets, he Tweets alot).
 
